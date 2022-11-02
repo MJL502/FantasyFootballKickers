@@ -1,0 +1,72 @@
+Criteria,FG attempts per Game,FG Percent,Anticipated MADE FG's
+Overall Average,3.861122661122661,0.8440663364204178,3.259043659043659
+in a dome,4.0142602495543676,0.8454706927175843,3.393939393939394
+in below freezing temperature,3.606382978723404,0.8348082595870207,3.0106382978723403
+in the cold (32f-55f),3.842013888888889,0.8431992769995481,3.239583333333333
+in the heat (over 80f),3.9157303370786516,0.8321377331420373,3.258426966292135
+in low wind(under 5 mph),3.8123393316195373,0.8718813216453135,3.3239074550128533
+in medium wind (5-10 mph),4.010084033613445,0.8419949706621962,3.376470588235294
+in high wind (over 10mph),3.840085287846482,0.8334258745141588,3.2004264392324098
+with over/under below 40,3.8703703703703702,0.8341307814992025,3.2283950617283947
+with over/under between 40 and 45,3.9191685912240186,0.8461991750147319,3.3163972286374133
+with over/under between 45 and 50,3.938287153652393,0.8423409018228334,3.3173803526448364
+with over/under over 50,3.8715083798882683,0.8492063492063492,3.287709497206704
+in home games,3.94812925170068,0.8440663364204178,3.332482993197279
+in away games,3.94812925170068,0.8440663364204178,3.332482993197279
+"in all games at ""MetLife Stadium""",74.0,0.8716216216216216,64.5
+"in all games at ""Soldier Field""",33.875,0.8265682656826568,28.0
+"in all games at ""Cleveland Browns Stadium""",3.0,0.9166666666666666,2.75
+"in all games at ""Arrowhead Stadium""",37.625,0.8272425249169435,31.125
+"in all games at ""Ford Field""",35.75,0.8146853146853147,29.125
+"in all games at ""Mercedes-Benz Superdome""",37.875,0.8316831683168316,31.5
+"in all games at ""Reliant Stadium""",10.0,0.7875,7.875
+"in all games at ""LP Field""",18.375,0.8707482993197279,16.0
+"in all games at ""Mall of America Field at HHH Metrodome""",7.125,0.8947368421052632,6.375
+"in all games at ""Raymond James Stadium""",35.25,0.776595744680851,27.375
+"in all games at ""University of Phoenix Stadium""",28.125,0.8044444444444444,22.625
+"in all games at ""Lambeau Field""",34.25,0.8467153284671532,29.0
+"in all games at ""Sports Authority Field at Mile High""",30.375,0.831275720164609,25.25
+"in all games at ""M&T Bank Stadium""",38.75,0.832258064516129,32.25
+"in all games at ""O.co Coliseum Oakland""",20.125,0.8074534161490683,16.25
+"in all games at ""Paul Brown Stadium""",37.0,0.8716216216216216,32.25
+"in all games at ""Ralph Wilson Stadium""",17.625,0.8368794326241135,14.75
+"in all games at ""Lucas Oil Stadium""",37.0,0.8445945945945946,31.25
+"in all games at ""Lincoln Financial Field""",36.125,0.8512110726643599,30.750000000000004
+"in all games at ""EverBank Field""",22.25,0.8764044943820225,19.5
+"in all games at ""Bank of America Stadium""",37.5,0.8533333333333334,32.0
+"in all games at ""Gillette Stadium""",40.75,0.8496932515337423,34.625
+"in all games at ""Edward Jones Dome""",15.75,0.8333333333333334,13.125
+"in all games at ""CenturyLink Field""",34.875,0.8566308243727598,29.875
+"in all games at ""Qualcomm Stadium""",18.125,0.8620689655172413,15.624999999999998
+"in all games at ""Sun Life Stadium""",20.125,0.7888198757763976,15.875000000000002
+"in all games at ""Heinz Field""",34.75,0.8812949640287769,30.625
+"in all games at ""Candlestick Park""",9.0,0.8194444444444444,7.375
+"in all games at ""Georgia Dome""",21.5,0.8837209302325582,19.0
+"in all games at ""Cowboys Stadium""",4.0,0.96875,3.875
+"in all games at ""FedEx Field""",34.125,0.8315018315018315,28.375
+"in all games at ""Wembley Stadium""",6.25,0.84,5.25
+"in all games at ""Rogers Centre""",0.875,1.0,0.875
+"in all games at ""FirstEnergy Stadium""",27.5,0.8045454545454546,22.125
+"in all games at ""AT&T Stadium""",33.25,0.8571428571428571,28.5
+"in all games at ""NRG Stadium""",28.75,0.8869565217391304,25.5
+"in all games at ""TCF Bank Stadium""",8.625,0.8695652173913043,7.5
+"in all games at ""Levi's Stadium""",26.5,0.8726415094339622,23.125
+"in all games at ""Los Angeles Memorial Coliseum""",14.875,0.8487394957983193,12.625
+"in all games at ""U.S. Bank Stadium""",20.5,0.8658536585365854,17.75
+"in all games at ""Twickenham""",0.25,1.0,0.25
+"in all games at ""New Era Field""",16.0,0.8046875,12.875
+"in all games at ""Nissan Stadium""",14.875,0.8235294117647058,12.25
+"in all games at ""StubHub Center""",8.375,0.8208955223880597,6.875
+"in all games at ""Oakland-Alameda County Coliseum""",9.5,0.7763157894736842,7.375
+"in all games at ""Mercedes-Benz Stadium""",17.875,0.8811188811188811,15.75
+"in all games at ""Hard Rock Stadium""",14.0,0.8035714285714286,11.25
+"in all games at ""Twickenham Stadium""",1.375,0.8181818181818182,1.125
+"in all games at ""Estadio Azteca""",0.5,1.0,0.5
+"in all games at ""TIAA Bank Field""",10.75,0.8953488372093024,9.625
+"in all games at ""Dignity Health Sports Park""",3.625,0.7586206896551724,2.75
+"in all games at ""State Farm Stadium""",8.75,0.8428571428571429,7.375
+"in all games at ""Broncos Stadium at Mile High""",4.875,0.8974358974358975,4.375
+"in all games at ""Tottenham Hotspur Stadium""",0.75,0.8333333333333334,0.625
+"in all games at ""SoFi Stadium""",8.375,0.8507462686567164,7.125
+"in all games at ""Empower Field at Mile High""",3.875,0.7741935483870968,3.0
+"in all games at ""Allegiant Stadium""",4.25,0.9411764705882353,4.0
