@@ -18,6 +18,7 @@
 - Python
 - SQL
 - Jupyter Notebook
+- contextlib
 - Seaborn
 - Matplotlib
 
@@ -51,9 +52,7 @@
 
 ## TODO:
 
-- [ ] Add data analysis for home vs away games
-- [ ] Add data analysis for home vs away games at each stadium
-
+- [ ] REFACTOR
 
 
 ## LICENSE:
